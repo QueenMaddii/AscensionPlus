@@ -1,0 +1,11 @@
+{
+  "${modID}:CustomAscension": {
+    "TEXT": [
+      "21. Double Act 2 boss.",
+      "22? Double Act 1 boss.",
+      "23. Triple Act 3 boss.",
+      "24. Triple Act 2 boss.",
+      "25. Triple Act 1 boss."
+    ]
+  }
+}
